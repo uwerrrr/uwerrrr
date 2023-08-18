@@ -12,8 +12,8 @@ I am currently based in Sydney. I have a solid background in Business Informatio
 - 🔭 I’m currently working on [personal ecommerece website](https://github.com/uwerrrr/eShop).
 - 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
 - 📫 Feel free to reach me at
-  - ![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)
-  - ![Outlook Badge](https://img.shields.io/badge/%20-van.lenguyen%40outlook.com%20-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=%230078D4&color=%2341495E)
+  - [![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/oscar-vannguyen/)
+  - [![Outlook Badge](https://img.shields.io/badge/%20-van.lenguyen%40outlook.com%20-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=%230078D4&color=%2341495E)](mailto:van.lenguyen@outlook.com)
 
   
 
