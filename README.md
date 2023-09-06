@@ -9,7 +9,9 @@ I'm a junior Full-Stack Dev with a data-driven mindset. Passionate about utilisi
 
 I am currently based in Sydney. I have a solid background in Business Information Systems and Data Science, which has been further complemented by my practical experience in roles such as an ERP Consultant and Data Scientist.
 
-- 🔭 I’m currently working on [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator).
+- 🔭 I’m currently working on
+  - [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator) and
+  - [Coin price visualization with D3](https://github.com/uwerrrr/coin-visualization).
 - 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
 - 📫 Feel free to reach me at
   - [![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/oscar-vannguyen/)
