@@ -32,6 +32,11 @@ Here are some of my notable ones:
 #### [Fake Macintosh OS](https://github.com/uwerrrr/fakeOS)
   Travel back to 1984 with an interactive retro Macintosh. 
 
+#### [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator)
+  Dive into the world of seamless employee management with our full-stack web app.
+  <br> VIEW, CREATE, EDIT, and DELETE employee information effortlessly – your all-in-one solution for streamlined HR management. 
+  <br> Say goodbye to data woes! Our project comes with built-in data validation, ensuring every piece of information is spot on.
+
 #### [Books Search engine](https://github.com/uwerrrr/Google-Books-Search)
   A book search engine using the Google Books API.
 
