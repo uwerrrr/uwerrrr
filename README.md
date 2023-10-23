@@ -10,8 +10,7 @@ I'm a junior Full-Stack Dev with a data-driven mindset. Passionate about utilisi
 I am currently based in Sydney. I have a solid background in Business Information Systems and Data Science, which has been further complemented by my practical experience in roles such as an ERP Consultant and Data Scientist.
 
 - 🔭 I’m currently working on
-  - [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator) and
-  - [Coin price visualization with D3](https://github.com/uwerrrr/coin-visualization).
+  - [To do list IOS Swift UI app](https://github.com/uwerrrr/swift_todo)
 - 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
 - 📫 Feel free to reach me at
   - [![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/oscar-vannguyen/)
@@ -42,6 +41,9 @@ Here are some of my notable ones:
 
 #### [minesweeper](https://github.com/uwerrrr/minesweeper)
   A minesweeper game running in CLI, written in JAVA.
+
+#### [text emotion prediction project](https://github.com/uwerrrr/text_major_project)
+  A project focuses on building and comparing ML predictive models which are to predict emotions of Tweets, written in Python on Jupyter notebook.
 
 ---
 ## Technologies
