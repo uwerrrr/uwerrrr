@@ -27,23 +27,28 @@ I am currently based in Sydney. I have a solid background in Business Informatio
 📔 Check out my __[portfolio](https://uwerrrr.github.io/Oscar_Portfolio/)__ for all of my projects!
 
 Here are some of my notable ones:
+### Fullstack, frontend and backend projects:
 
-#### [Fake Macintosh OS](https://github.com/uwerrrr/fakeOS)
+- #### [Fake Macintosh OS](https://github.com/uwerrrr/fakeOS)
   Travel back to 1984 with an interactive retro Macintosh. 
 
-#### [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator)
+- #### [Full stack employee creator web app](https://github.com/uwerrrr/employee-creator)
   Dive into the world of seamless employee management with our full-stack web app.
   <br> VIEW, CREATE, EDIT, and DELETE employee information effortlessly – your all-in-one solution for streamlined HR management. 
   <br> Say goodbye to data woes! Our project comes with built-in data validation, ensuring every piece of information is spot on.
 
-#### [Books Search engine](https://github.com/uwerrrr/Google-Books-Search)
+- #### [Books Search engine](https://github.com/uwerrrr/Google-Books-Search)
   A book search engine using the Google Books API.
 
-#### [minesweeper](https://github.com/uwerrrr/minesweeper)
+- #### [minesweeper](https://github.com/uwerrrr/minesweeper)
   A minesweeper game running in CLI, written in JAVA.
 
-#### [text emotion prediction project](https://github.com/uwerrrr/text_major_project)
+### Python, SQL and data driven projects:
+- #### [text emotion prediction project](https://github.com/uwerrrr/text_major_project)
   A project focuses on building and comparing ML predictive models which are to predict emotions of Tweets, written in Python on Jupyter notebook.
+
+- #### [mySQL-analytics](https://github.com/uwerrrr/mySQL-analytics)
+  A project aims to create a compact MySQL database using an open-source dataset and then leverage Python to perform data analysis and insights.
 
 ---
 ## Technologies
