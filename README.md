@@ -11,6 +11,7 @@ I am currently based in Sydney. I have a solid background in Business Informatio
 
 - 🔭 I’m currently working on
   - [To do list IOS Swift UI app](https://github.com/uwerrrr/swift_todo)
+  - [Tiny AWS Lambda Data Processing Project](https://github.com/uwerrrr/aws_titanic)
 - 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
 - 📫 Feel free to reach me at
   - [![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/oscar-vannguyen/)
