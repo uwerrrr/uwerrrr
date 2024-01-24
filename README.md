@@ -10,6 +10,7 @@ I'm a junior Full-Stack Dev with a data-driven mindset. Passionate about utilisi
 I am currently based in Sydney. I have a solid background in Business Information Systems and Data Science, which has been further complemented by my practical experience in roles such as an ERP Consultant and Data Scientist.
 
 - 🔭 I’m currently working on
+  - [A full-stack event management via calendar view](https://github.com/uwerrrr/events-app/blob/main/README.md)  
   - [To do list IOS Swift UI app](https://github.com/uwerrrr/swift_todo)
   - [Tiny AWS Lambda Data Processing Project](https://github.com/uwerrrr/aws_titanic)
 - 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
