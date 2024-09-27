@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a junior Full-Stack Dev with a data-driven mindset. Passionate about utilising technology to solve business problems.
+I'm a Full-Stack Dev with a data-driven mindset. Passionate about utilising technology to solve business problems.
 
 ---
 ## About Me
