@@ -9,11 +9,6 @@ I'm a Full-Stack Dev with a data-driven mindset. Passionate about utilising tech
 
 I am currently based in Sydney. I have a solid background in Business Information Systems and Data Science, which has been further complemented by my practical experience in roles such as an ERP Consultant and Data Scientist.
 
-- 🔭 I’m currently working on
-  - [A full-stack event management via calendar view](https://github.com/uwerrrr/events-app/blob/main/README.md)  
-  - [To do list IOS Swift UI app](https://github.com/uwerrrr/swift_todo)
-  - [Tiny AWS Lambda Data Processing Project](https://github.com/uwerrrr/aws_titanic)
-- 🌱 I’m currently learning <ins>NestJS</ins> and <ins>Azure</ins>.
 - 📫 Feel free to reach me at
   - [![LinkedIn Badge](https://img.shields.io/badge/%20-oscar--vannguyen%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%2341495E)](https://www.linkedin.com/in/oscar-vannguyen/)
   - [![Outlook Badge](https://img.shields.io/badge/%20-van.lenguyen%40outlook.com%20-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=%230078D4&color=%2341495E)](mailto:van.lenguyen@outlook.com)
